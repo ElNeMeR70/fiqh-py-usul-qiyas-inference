@@ -1,0 +1,7 @@
+[project]
+name = "fiqh-py-usul-qiyas-inference"
+version = "1.0.0"
+description = "Usul Al-Fiqh Analogical Reasoning (Qiyas: Asl, Far', Illah, Hukm) (محرك القياس الأصولي واستنباط العلة والحكم الشرعي)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
